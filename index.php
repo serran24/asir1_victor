@@ -12,7 +12,7 @@ echo "Registo completado : <b> $name </b><br><br>";
 }
 ?>
 
-<h1>Formulario Suscriptores alejandro</h1>
+<h1>Formulario Suscriptores Víctor</h1>
 <br>
 <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
  <br> Email: 
