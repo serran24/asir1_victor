@@ -1,0 +1,22 @@
+1º Los integrantes de un grupo pueden hacer un trabajo 
+en conjunto y luego cada uno hacer modificaciones, para 
+luego poner enlaces a los diferentes trabajos modificados 
+dentro del trabajo original.
+
+2º Se puede hacer un trabajo conjunto en el que cada 
+integrante escriba un parte de los comandos, creando una 
+copia de su parte en un documento txt.
+
+3º Se puede crear una presentacion dentro de un grupo en 
+el que cada alumno haga su parte y luego ponga un enlace 
+al compañero que le toque presentar de modo que la 
+infraestructura de red de ese grupo sea la propia 
+presentacion en la cual solo estan los integrantes del grupo.
+
+4º Se pueden enumerar todos los trabajos realizados de uno 
+en uno de modo que se enlace a un alumno con un trabajo, 
+por ejemplo ponemos un link al primer trabajo hecho por un 
+compañero y ponemos otro link al siguiente trabajo echo por 
+otro compañero, etc.
+
+5º Crear una pagina web sencilla sobre lo que se quiera.
