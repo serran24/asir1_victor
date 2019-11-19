@@ -1,22 +1,32 @@
 <?php
-function longitud ($a, a$b, $c) {
 
-   if($a==$b==$c){
-   $r='Equilatero';
-   }
+function longitud ($a,$b,$c){
+    
+     $n="escaleno";
+
+     if ($a==$b or $a==$c or $b==$c){
+	 $n="isosceles";
 	
-	
-   if($a==$b or $a==$c or $b==$a or $b==$c or $c==$a or $c==$b){
-   $r='Isosceles';
-   }
-	
+     if ($b==$c or $a==$c)
+	 $n="equilatero";
+ 
+    
+	 }
 		
-   if($a<>$b or $a<>$c or $b<>$a or $b<>$c or $c<>$a or $c<>$b){
-   $r='Escaleno';
-   }
-	
-   
-return $r;
-}	   
+     return $n;
 
-echo longitud (1,1,1)."<br>";
+}
+
+echo longitud(1,1,1)."<br>";
+
+echo longitud(2,1,3)."<br>";
+
+echo longitud(1,3,2)."<br>";
+
+echo longitud(4,4,2)."<br>";
+
+echo longitud(3,3,3)."<br>";
+
+echo longitud(2,4,3)."<br>";
+
+?>
